@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358423969617",
+    "firebase_url": "https://guia-rango-comerciante-83f56.firebaseio.com",
+    "project_id": "guia-rango-comerciante-83f56",
+    "storage_bucket": "guia-rango-comerciante-83f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358423969617:android:071a7d8c8b045a31",
+        "android_client_info": {
+          "package_name": "br.com.guiarangocomerciante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358423969617-kpi1dnt9t5qfho7q8em91imofir6qokk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpa4B9N6Xx_8-DDkua7VLadsUb2Tn62s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
